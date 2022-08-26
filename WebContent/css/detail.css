@@ -11,6 +11,7 @@ main ul {
 	}
 .row {
 		display: flex;
+		
 }
 .row > li{
 	padding: 3px 0px;
