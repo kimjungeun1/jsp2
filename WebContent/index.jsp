@@ -8,7 +8,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h3>메인</h3>
+<h3>메인123</h3>
 <hr>
 
 <!--"user" 라는 이름의 애트리뷰트 가져오기 -->
